@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractionAndInterfaces", "AbstractionAndInterfaces\AbstractionAndInterfaces.csproj", "{584E3EA9-3DA3-4C59-B3B9-64028FF263EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractionAndInterfaces", "AbstractionAndInterfaces\AbstractionAndInterfaces.csproj", "{584E3EA9-3DA3-4C59-B3B9-64028FF263EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{8D1FB3E8-F55A-4EE6-8AE7-AFA8EE1CBD80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{58297094-B5BD-4C71-82A8-86BEB41C3A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", "{FDAAE93F-CF70-45E0-8432-AA91A8E17F34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{8E7A397E-2A4F-48F0-940F-C8465BD4AADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoProgressBarFormula", "VideoProgressBarFormula\VideoProgressBarFormula.csproj", "{363E2115-609D-4E5F-B1BB-EF5355CA9CDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +25,26 @@ Global
 		{584E3EA9-3DA3-4C59-B3B9-64028FF263EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{584E3EA9-3DA3-4C59-B3B9-64028FF263EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{584E3EA9-3DA3-4C59-B3B9-64028FF263EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1FB3E8-F55A-4EE6-8AE7-AFA8EE1CBD80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1FB3E8-F55A-4EE6-8AE7-AFA8EE1CBD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1FB3E8-F55A-4EE6-8AE7-AFA8EE1CBD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1FB3E8-F55A-4EE6-8AE7-AFA8EE1CBD80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58297094-B5BD-4C71-82A8-86BEB41C3A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58297094-B5BD-4C71-82A8-86BEB41C3A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58297094-B5BD-4C71-82A8-86BEB41C3A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58297094-B5BD-4C71-82A8-86BEB41C3A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAAE93F-CF70-45E0-8432-AA91A8E17F34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAAE93F-CF70-45E0-8432-AA91A8E17F34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAAE93F-CF70-45E0-8432-AA91A8E17F34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAAE93F-CF70-45E0-8432-AA91A8E17F34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7A397E-2A4F-48F0-940F-C8465BD4AADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7A397E-2A4F-48F0-940F-C8465BD4AADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7A397E-2A4F-48F0-940F-C8465BD4AADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7A397E-2A4F-48F0-940F-C8465BD4AADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363E2115-609D-4E5F-B1BB-EF5355CA9CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363E2115-609D-4E5F-B1BB-EF5355CA9CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363E2115-609D-4E5F-B1BB-EF5355CA9CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363E2115-609D-4E5F-B1BB-EF5355CA9CDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
