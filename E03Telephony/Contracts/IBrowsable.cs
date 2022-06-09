@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace E03Telephony.Contracts
+namespace E03Telephony
 {
     public interface IBrowsable
     {

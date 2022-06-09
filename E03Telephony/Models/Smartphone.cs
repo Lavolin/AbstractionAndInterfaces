@@ -1,6 +1,4 @@
-﻿using E03Telephony.Contracts;
-using E03Telephony.Exceptions;
-using System;
+﻿using System;
 using System.Linq;
 
 namespace E03Telephony

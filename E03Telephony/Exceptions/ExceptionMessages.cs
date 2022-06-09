@@ -1,4 +1,4 @@
-﻿namespace E03Telephony.Exceptions
+﻿namespace E03Telephony
 {
     public static class ExceptionMessages
     {
