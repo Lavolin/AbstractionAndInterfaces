@@ -13,5 +13,9 @@ namespace E07MilitaryElite
         }
 
         public decimal Salary { get; }
+
+        public override string ToString() => base.ToString() + $"Salary: {this.Salary:f2}";
+
+
     }
 }

@@ -20,6 +20,6 @@ namespace E07MilitaryElite
         public string LastName { get; }
 
         public override string ToString()
-            => $"Name: {this.FirstName} {this.LastName} Id: {this.Id}";
+            => $"Name: {this.FirstName} {this.LastName} Id: {this.Id} ";
     }
 }

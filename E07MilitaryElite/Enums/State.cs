@@ -6,7 +6,7 @@ namespace E07MilitaryElite
 {
     public enum State
     {
-        InProgress,
+        inProgress,
         Finished
     } 
 }
